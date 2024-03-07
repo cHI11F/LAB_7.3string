@@ -1,0 +1,4 @@
+﻿  UnitTest1.cpp
+D:\Visual Studio проекти\LAB_8.1string\LAB_8.1string\LAB_8.1string.cpp(8,44): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+     Creating library D:\Visual Studio проекти\LAB_8.1string\x64\Debug\UnitTest1.lib and object D:\Visual Studio проекти\LAB_8.1string\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> D:\Visual Studio проекти\LAB_8.1string\x64\Debug\UnitTest1.dll
